@@ -1,0 +1,7 @@
+fun alternate(ls: int list) =
+    if null ls
+    then 0
+    else
+	hd ls + (~1)*(alternate(tl ls))
+
+			 

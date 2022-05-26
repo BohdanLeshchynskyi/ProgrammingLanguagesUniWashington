@@ -1,0 +1,25 @@
+Standard ML of New Jersey v110.80 [built: Thu Aug 18 15:00:00 2016]
+- use "hw0provided.sml";
+[opening hw0provided.sml]
+[use failed: Io: openIn failed on "hw0provided.sml", Win32TextPrimIO:openRd: failed]
+- use "hw0provided.sml";
+[opening hw0provided.sml]
+val f = fn : int * int -> int
+val double = fn : int -> int
+val triple = fn : int -> int
+val it = () : unit
+- use "hw0test.sml";
+[opening hw0test.sml]
+[use failed: Io: openIn failed on "hw0test.sml", Win32TextPrimIO:openRd: failed]
+- use "hw0test.sml";
+[opening hw0test.sml]
+val test1 = true : bool
+val test2 = true : bool
+val test3 = true : bool
+val test4 = true : bool
+val test5 = true : bool
+val test6 = true : bool
+val it = () : unit
+- 
+
+Process sml finished
